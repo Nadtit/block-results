@@ -1,0 +1,15 @@
+C:\Users\ntito\Desktop\домашнее задание\итоги блока\results\bin\Debug\net6.0\results.exe
+C:\Users\ntito\Desktop\домашнее задание\итоги блока\results\bin\Debug\net6.0\results.deps.json
+C:\Users\ntito\Desktop\домашнее задание\итоги блока\results\bin\Debug\net6.0\results.runtimeconfig.json
+C:\Users\ntito\Desktop\домашнее задание\итоги блока\results\bin\Debug\net6.0\results.dll
+C:\Users\ntito\Desktop\домашнее задание\итоги блока\results\bin\Debug\net6.0\results.pdb
+C:\Users\ntito\Desktop\домашнее задание\итоги блока\results\obj\Debug\net6.0\results.csproj.AssemblyReference.cache
+C:\Users\ntito\Desktop\домашнее задание\итоги блока\results\obj\Debug\net6.0\results.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntito\Desktop\домашнее задание\итоги блока\results\obj\Debug\net6.0\results.AssemblyInfoInputs.cache
+C:\Users\ntito\Desktop\домашнее задание\итоги блока\results\obj\Debug\net6.0\results.AssemblyInfo.cs
+C:\Users\ntito\Desktop\домашнее задание\итоги блока\results\obj\Debug\net6.0\results.csproj.CoreCompileInputs.cache
+C:\Users\ntito\Desktop\домашнее задание\итоги блока\results\obj\Debug\net6.0\results.dll
+C:\Users\ntito\Desktop\домашнее задание\итоги блока\results\obj\Debug\net6.0\refint\results.dll
+C:\Users\ntito\Desktop\домашнее задание\итоги блока\results\obj\Debug\net6.0\results.pdb
+C:\Users\ntito\Desktop\домашнее задание\итоги блока\results\obj\Debug\net6.0\results.genruntimeconfig.cache
+C:\Users\ntito\Desktop\домашнее задание\итоги блока\results\obj\Debug\net6.0\ref\results.dll
